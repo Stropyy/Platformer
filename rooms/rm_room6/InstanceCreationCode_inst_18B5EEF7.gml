@@ -1,0 +1,1 @@
+audio_play_sound(snd_medieval_fanfare_6826, 10, false);

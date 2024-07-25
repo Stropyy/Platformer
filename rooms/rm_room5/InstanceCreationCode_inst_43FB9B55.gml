@@ -1,0 +1,1 @@
+audio_play_sound(snd_space_travel_in_outer_space_158427, 10, false);
